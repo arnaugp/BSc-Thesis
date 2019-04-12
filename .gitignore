@@ -1,0 +1,10 @@
+#Files
+.settings
+.git
+.project
+*.fmu
+.pydevproject
+
+#Directories
+data/
+dataToRunAndPlot/
