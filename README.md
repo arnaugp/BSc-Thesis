@@ -13,7 +13,7 @@ The main goals of the tool are:
 **BSc thesis report:** [REPORT.pdf](https://github.com/arnaugp/BSc-Thesis/blob/master/BSc%20thesis%20docs/REPORT.pdf) :page_facing_up:
 
 ## Simulator input
-The energy demand simulator takes as input .csv files with temperatures data from [Meteorological Service of Catalonia](meteo.cat).
+The energy demand simulator takes as input .csv files with temperatures data from [Meteorological Service of Catalonia](https://www.meteo.cat).
 
 ## Output
 The tool creates two graphs for each location and a map plot with overall results.
